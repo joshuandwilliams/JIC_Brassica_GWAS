@@ -1,4 +1,4 @@
-# brassica_napus_gwas
+# JIC_Brassica_GWAS
 Code from my JIC summer internship with Professor Richard Morris
 
 EulerandRungeKutta.R and MonteCarloPiEstimation.R are scripts I wrote in the first week of the internship, which introduced me to some mathematical/statistical methods.
